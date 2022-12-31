@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>New Year Wishes 2023</Name>
+    <FullClassName>New_Year_2023.App_Main</FullClassName>
+    <Assembly>New Year Wishes\New_Year_2023.dll/</Assembly>
+    <AddInId>7E34E99D-FCF4-4C81-9B0E-0FD79FB34B7D</AddInId>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+

@@ -1,0 +1,9 @@
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\bin\Debug\New_Year_2023.dll
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\bin\Debug\New_Year_2023.pdb
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.csproj.AssemblyReference.cache
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.g.resources
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.Properties.Resources.resources
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.csproj.GenerateResource.cache
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.csproj.CoreCompileInputs.cache
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.dll
+E:\15.CAD Programming\REVIT Customization\My Training Projects\New_Year_2023\New_Year_2023\obj\Debug\New_Year_2023.pdb
